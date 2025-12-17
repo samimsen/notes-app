@@ -1,4 +1,4 @@
-# 📝 NotesApp
+# 📝 NotesApp - [Canlı Link](https://notes-app-samimsen.netlify.app/)
 
 NotesApp, React kullanılarak geliştirilmiş, renkli ve responsive bir not alma uygulamasıdır.  
 Kullanıcılar not ekleyebilir, notlara renk atayabilir ve notlar arasında arama yapabilir.
